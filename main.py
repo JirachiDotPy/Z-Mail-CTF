@@ -384,6 +384,5 @@ def main():
             
             print("\nRe-opening Z-Mail...")
             main()
-            
                 
 main()
